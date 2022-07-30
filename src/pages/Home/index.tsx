@@ -1,8 +1,10 @@
 import React from "react";
+import { Logo } from "./style";
 
 export default function Home() {
     return(
-        <p></p>
+        <Logo><p>RL</p></Logo>
+        
     );
 }
 
